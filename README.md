@@ -39,3 +39,6 @@ Espero que você goste deste projeto! Se tiver alguma dúvida ou sugestão, não
 | Laranja       | ![#e21](https://via.placeholder.com/10/e21?text=+) #e21 |
 | Vermelho       | ![#900](https://via.placeholder.com/10/900?text=+) #900 |
 
+## GIF: ![civic-type-r](https://github.com/Gussball/Civic-Type-R/assets/112123706/60227140-20ac-451c-ad3b-899deb09c9e4)
+
+

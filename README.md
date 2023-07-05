@@ -4,14 +4,14 @@ Este é um projeto de uma página HTML e CSS que representa o carro Honda Civic 
 
 ## Funcionalidades
 
-Apresentação visual do carro Honda Civic Type R.
-Layout responsivo para se adaptar a diferentes tamanhos de tela.
-Design moderno e atraente com ênfase nas características do veículo.
+Apresentação visual do carro Honda Civic Type R.<br>
+Layout responsivo para se adaptar a diferentes tamanhos de tela.<br>
+Design moderno e atraente com ênfase nas características do veículo.<br>
 Uso de técnicas básicas de HTML e CSS para criar a estrutura e estilização da página.
 
 ## Como executar o projeto
 
-1. Faça o download ou clone o repositório para o seu computador.
+1. Faça o download ou clone o repositório para o seu computador.<br>
 2. Abra o arquivo "index.html" em qualquer navegador web.
 
 ## Estrutura de arquivos
